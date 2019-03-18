@@ -1,0 +1,1 @@
+Teste para o uso do comando read, para ler as linhas de um arquivo
