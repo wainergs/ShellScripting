@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#################################################
+#			Calculadora basica v1				#
+# Desenvolvida por Eduardo Augusto Fernandes	#
+#################################################
 num1=$1
 num2=$2
 
