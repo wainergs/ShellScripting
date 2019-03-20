@@ -1,14 +1,15 @@
 #!/bin/bash
 
-#=====================================================================================
-#				                Calculadora versao2			              	 		 =	 
-#	                    Desenvolvido por Eduardo Augusto Fernandes					 =
-#				        email: eduardoaugusto2016880@gmail.com 						 =
-#																					 =
-# Obs: Chame o script dessa forma: ./calculadoraV2.sh numero operacao numero 		 =
-# 												exemplo: ./calculadoraV2.sh 10 - 10  =
-# Para multiplicar no lugar da operacao coloque o caractere (x)'					 =
-#												exemplo: ./calculadoraV2.sh 10 x 10  = 
+#====================================================================================
+#				    Calculadora versao2			 	    =	 
+#	                    Desenvolvido por Eduardo Augusto Fernandes		    =
+#			email: eduardoaugusto2016880@gmail.com 	    		    =
+#							      			    =
+# Obs: Chame o script dessa forma: ./calculadoraV2.sh numero operacao numero        =
+# 					exemplo: ./calculadoraV2.sh 10 - 10         =
+#										    = 
+# Para multiplicar no lugar da operacao coloque o caractere (x)'     	 	    =
+#					exemplo: ./calculadoraV2.sh 10 x 10         = 
 #=====================================================================================
 
 var1=$1
